@@ -9,7 +9,7 @@ This repository contains the following files:
 1. movie_ticket_booking.sql
    - Description: Defines the complete database schema for the Online Movie Ticket Booking System.
    - Contents:
-     - Creation of tables: `users`, `movies`, `theaters`, `shows`, `bookings`, `payments`, `reviews`, and associated relationships.
+     - Creation of tables: 'users','movies','cities','theatres','screens','seats','shows','bookings','booking_seats','payments','reviews' and associated relationships.
      - Constraints, indexes, and data types are carefully selected for optimal performance and integrity.
      - Usage: Execute this file in your SQL environment to create the necessary database structure.
 
