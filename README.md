@@ -16,7 +16,7 @@ This repository contains the following files:
 2. sample_inserting_data.sql
    - Description: Contains SQL commands to insert sample data into the database.
    - Contents:
-     - Inserts for movies, users, theaters, shows, bookings, and reviews.
+     - Inserts for users,movies,cities,theatres,screens,seats,shows,bookings,booking_seats,payments,reviews.
      - This sample data is essential for testing and demonstrates the functionality of the database.
    - Usage: Run this file after executing `movie_ticket_booking.sql` to populate the database with sample entries.
 
